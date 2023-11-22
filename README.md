@@ -7,4 +7,4 @@ in this video we have a google translate clone 😁
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![screenshot](screenshot.png)
